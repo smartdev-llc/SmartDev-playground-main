@@ -1,0 +1,5 @@
+{
+  "DBSettings": {
+    "ConnectionString": "Server=.\\SQLEXPRESS;Database=SmartDev-BookManagement;User Id=sa;Password=sa123;MultipleActiveResultSets=true;Connection Timeout=360;"
+  }
+}
